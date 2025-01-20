@@ -15,11 +15,11 @@ export default defineNuxtConfig({
 //   { path: '~/components/content', prefix: 'Content' }, // not sure this actually does anything
 // ],
 
-  content: {
-    preview: {
-      api: 'https://api.nuxt.studio'
-    }
-  },
+  // content: {
+  //   preview: {
+  //     api: 'https://api.nuxt.studio'
+  //   }
+  // },
 
   future: {
     compatibilityVersion: 4
