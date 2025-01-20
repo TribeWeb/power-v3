@@ -21,6 +21,12 @@ export default defineNuxtConfig({
   //   }
   // },
 
+  hub: {
+    database: true,
+    blob: true,
+    kv: true
+  },
+
   future: {
     compatibilityVersion: 4
   },
