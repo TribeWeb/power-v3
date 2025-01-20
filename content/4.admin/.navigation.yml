@@ -1,0 +1,7 @@
+title: Admin
+description: Secret stuff
+navigation: 
+  icon: i-lucide-lock 
+  badge: 
+  label: Admin
+  description: All about our company
